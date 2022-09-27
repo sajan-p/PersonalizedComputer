@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+  
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Kanit:wght@100;300;400;500;600;700;800;900&display=swap"
+      rel="stylesheet">
+  
+    <script src="https://kit.fontawesome.com/7048794920.js" crossorigin="anonymous"></script>
+  
+    <link rel="stylesheet" href="style.css">
+    <script src="parts.js" defer></script>
+    <script src="manage_build.js" defer></script>
+  </head>
+
+<body>
+
+  <section id="header">
+
+    <div class="header-left">
+      <a href="index.html">
+        <h3>PersonalizedComputer</h3>
+      </a>
+    </div>
+    <div class="header-right">
+      <a href="builds.html">Builds</a>
+      <a href="parts.html">Parts</a>
+      <button>
+        <i class="fa-solid fa-cart-arrow-down" style="color: black;"></i>
+        Purchase
+      </button>
+    </div>
+
+  </section>
+
+  <section id="introduction-parts">
+
+    <h1>Builds</h1>
+
+  </section>
+
+  <section id="build-list">
+    <a><div class="build-item">
+      <div class="hover-build-price">
+        $1,453.19
+      </div>
+      <div onclick="clickBuild('student')" class="build-name">Budget Student Build</div>
+    </div></a>
+    
+    <a><div class="build-item">
+      <div class="hover-build-price">
+        $4,232.95
+      </div>
+      <div onclick="clickBuild('gaming')" class="build-name">A Gaming Enthusiast</div>
+    </div></a>
+
+    <a><div class="build-item">
+      <div class="hover-build-price">
+        $5,105.21
+      </div>
+      <div onclick="clickBuild('pgve')" class="build-name">Photographer/Video Editor</div>
+    </div></a>
+
+  </section>
+
+
+  <section id="footer">
+    <img src="logo.png">
+    <p>PersonalizedComputer</p>
+  </section>
+</body>
+
+</html>
