@@ -593,8 +593,113 @@ const parts = [
     Includes Rode SM6 shock mount, pop filter and dust cover</p> <p>
     Internal capsule shock mounting </p>`,
     link: "https://www.amazon.ca/Rode-Anniversary-Condenser-Microphone-Package/dp/B002QAUOKS/ref=sr_1_17?crid=2G190RP4KTX3J&keywords=%5Cmicrophone&qid=1664229676&refinements=p_36%3A12035764011&rnid=12035759011&s=musical-instruments&sprefix=microphone%2Caps%2C115&sr=1-17",
+  }, {
+    productName: "Creative Sound BlasterX AE-5 Plus",
+    img: "https://d287ku8w5owj51.cloudfront.net/images/products/hero/others/hero-sound-blasterx-ae-5-plus.jpg?width=800&height=800",
+    price: (1.13 * 169.99).toFixed(2),
+    category: "sound_card",
+    build: null,
+    description: `<p> SUPPORTS DOLBY DIGITAL AND DTS – Now with support for Dolby Digital Live and DTS Encoding for even more delivery options to your external audio devices The AE-5 Plus also supports 5.1 discrete and 7.1 virtual surround, as well as Sound Blaster’s Surround Virtualization technology </p> <p>
+
+    POWERFUL DISCRETE HEADPHONE AMP – Sound BlasterX AE-5 Plus features Xamp, our custom-designed discrete headphone amp that utilizes bi-amplification technology to power each earcup individually with 1 ohm output impedance and drives studio-grade headphones of up to 600Ω, including high-end planar-magnetic headphones </p> <p>
+
+    PRISTINE AUDIO QUALITY – Featuring the SABRE32 ultra-class PCI-e DAC to deliver up to 32-bit / 384 kHz playback with a 122 dB DNR, ultra-low distortion and jitter, the AE-5 Plus is more than capable of hi-res audio for games, music, and movies; put simply, for discerning audio lovers of any kind, the AE-5 Plus is set to blow past your expectations with pristine audio and powerful performance </p>`,
+    link: "https://www.amazon.ca/Creative-BlasterX-SABRE32-class-Discrete-Headphone/dp/B086QN3WNX/ref=sr_1_6?crid=MSWPGE6EOMR9&keywords=sound+card&qid=1664243159&sprefix=sound+car%2Caps%2C84&sr=8-6",
+  }, {
+    productName: "Creative Sound Blaster Audigy FX 5.1",
+    img: "https://d287ku8w5owj51.cloudfront.net/images/products/hero/others/hero-sound-blaster-audigy-fx-v2.jpg?width=800&height=800",
+    price: (1.13 * 59.99).toFixed(2),
+    category: "sound_card",
+    build: null,
+    description: `Easily converts the PC into a cinematic entertainment system by providing a compelling 5.1 surround sound </p> <p>
+    Advanced Audio Processing with SBX Pro Studio, a suite of Sound Blaster audio processing technologies that let you bring out the best in your audio.Not compatible with AC97 or Intel-compatible HD Front Panel Audio </> <p>
+    Includes the Sound Blaster Audigy Fx Control Panel, PC software that puts you in full control of the SBX Pro Studio suite of technologies </p> <p>
+    600 ohm headphone amp for high performance, studio grade monitoring </p> <p>
+    106 SNR and 24-bit 192kHz DAC (Playback) and 96kHz ADC (Recording) </p> <p>
+    The Audigy FX supports windows XP, 7, 8, 10, and 11 </p> <p>`,
+    link: "https://www.amazon.ca/Creative-Sound-Blaster-Audigy-SB1570/dp/B00EO6X4XG/ref=sr_1_2?crid=2VM1BF4OKSPVS&keywords=Creative+Sound+Blaster+Audigy+FX+5.1&qid=1664244289&sprefix=creative+sound+blaster+audigy+fx+5+1%2Caps%2C81&sr=8-2",
+  }, {
+    productName: "External CD DVD Drive,Guamar USB C USB 3.0",
+    img: "https://m.media-amazon.com/images/I/61zK0VMQQfL._AC_SL1500_.jpg",
+    price: (1.13 * 50.99).toFixed(2),
+    category: "optical_drive",
+    build: null,
+    description: `<p>【Easy to Use】 External CD/DVD drive comes with USB3.0 and Type-C dual interface,easy to hook up with the computer.Plug & Play.No external driver needed.Just plug the external DVD drive directly into your laptop,this external CD DVD drive will be be detected automatically by your computer.For desktop,please plug it into the USB/USB C port connected to the mother board
+    </p> <p>【5 in 1 CD DVD Drive】Our optical drive is not only a external DVD dive,but also a multifunctional USB hub.It has 1 SD Card reader, 1 TF card reader,and 2 USB ports.When plug this DVD drive into your computer,you can plug the SD/TF card into the SD/TF slot,transfer the files/data/pictures/videos/movies directly from the SD/TF into your CD drive/computer/USB flash drive/hard drive.Also can transfer from DVD drive/computer/2 USB ports into the SD/TF card reader</p>`,
+    link: "https://www.amazon.ca/External-Guamar-Portable-Optical-Windows/dp/B09WMPJX2P/ref=sr_1_7?crid=199L0LG6VORNS&keywords=External+CD+DVD+Drive%2CGuamar+USB+C+USB+3.0&qid=1664244302&sprefix=external+cd+dvd+drive%2Cguamar+usb+c+usb+3+0%2Caps%2C64&sr=8-7",
+  }, {
+    productName: "ASUS Powerful Blu-ray Drive with 16x Writing Speed",
+    img: "https://asset.conrad.com/media10/isa/160267/c1/-/en/1368690_LB_00_FB/image.jpg?x=250&y=250",
+    price: (1.13 * 169.99).toFixed(2),
+    category: "network_adapter",
+    build: null,
+    description: `<p> Super-fast 16X Blu-ray writing speed with BDXL support that supports data storage up to 128 GB </p> <p>
+    Cloud backup solution for Android devices. Supported operating system is windows 10, windows 8, windows 7, windows vista, windows xp and mac os x 10. 6 or higher </p> <p>
+    MacOS and Windows Compatiblity via USB 3. 0 (USB 3. 1 Gen1) connection. Temperature Operating : 5 ℃ to 40 ℃ </p> <p>
+    Diamond-shaped design for luxury look and clean aesthetics </p> <p>
+    Cyber Link Power2Go 8 disc-burning process with optional encryption functionality for extra private files protection </p> <p>`,
+    link: "https://www.amazon.ca/Computer-International-BW-16D1X-U-Powerful-Blu-ray/dp/B071VP89X1/ref=sr_1_1?crid=2YQW6RCHR9PU2&keywords=ASUS+Powerful+Blu-ray+Drive+with+16x+Writing+Speed&qid=1664244325&sprefix=asus+powerful+blu-ray+drive+with+16x+writing+speed%2Caps%2C72&sr=8-1",
+  }, {
+    productName: "STARTECH ST1000BT32 Ethernet Network Adapter Card",
+    img: "https://media.startech.com/cms/products/gallery_large/st1000bt32.b.jpg",
+    price: (1.13 * 29).toFixed(2),
+    category: "network_adapter",
+    build: null,
+    description: `<p> Add feature rich gigabit networking through a PCI slot, suitable for a desktop, workstation or sever use; Operating Temperature: 0°C to 55°C (32°F to 131°F) </p> <p>
+    Dual profile design to fit into full or low profile/small form factor (SFF) systems.Wire gauge:30 AWG </p> <p>
+    Backed by a startech.com Lifetime warranty and free lifetime technical support.Operating Humidity:10% ~ 95% RH </p> <p>
+    A single 10/100/1000mbps compatible rj45 Ethernet port </p> <p>
+    Network link/activity and 10/100/1000 mbps led indicators </p> <p>
+    Fully Compliant with IEEE 802.3, IEEE 802.3u, IEEE 802.3x, and IEEE 802.3ab, and supports IEEE 802.1Q VLAN tagging </p> <p>`,
+    link: "https://www.amazon.ca/Creative-BlasterX-SABRE32-class-Discrete-Headphone/dp/B086QN3WNX/ref=sr_1_6?crid=MSWPGE6EOMR9&keywords=sound+card&qid=1664243159&sprefix=sound+car%2Caps%2C84&sr=8-6",
+  }, {
+    productName: "ASUS External Slim 8X DVD-RW",
+    img: "https://multimedia.bbycastatic.ca/multimedia/products/500x500/102/10210/10210850.jpg",
+    price: (1.13 * 34.99).toFixed(2),
+    category: "optical_drive",
+    build: null,
+    description: `<p> Disc Encryption double security with password-controlled and hidden-file functionality </p> <p>
+    Drag-and-Burn: friendly interface with only three simple steps to burn a disc </p> <p>
+    Diamond-cut design realize aesthetics of technology </p> <p>
+    OS Support: Windows XP / Vista / 7 / Server 2003 / Server 2008 / Mac OS X 10.5 </p> <p>
+    RAM: 512 MB or more is recommended </p> <p>`,
+    link: "https://www.amazon.ca/External-Stylish-SDRW-08D2S-U-BLK-AS/dp/B006HUMYCO/ref=sr_1_5?crid=2DSGVNXXC6ANY&keywords=optical+drive&qid=1664243808&sprefix=optical+drive%2Caps%2C71&sr=8-5",
+  }, {
+    productName: "Seagate Portable 2TB External Hard Drive",
+    img: "https://i5.walmartimages.com/asr/7ee91fea-036f-4608-b0f0-3c647b620680.225293983009c1e80466b448a69ddaad.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+    price: (1.13 * 79.99).toFixed(2),
+    category: "external_storage",
+    build: null,
+    description: `<p>Easily store and access 2TB to content on the go with the Seagate Portable Drive, a USB external hard drive </p> <p>
+    Designed to work with Windows or Mac computers, this external hard drive makes backup a snap just drag and drop </p> <p>
+    To get set up, connect the portable hard drive to a computer for automatic recognition no software required </p> <p>
+    This USB drive provides plug and play simplicity with the included 18 inch USB 3.0 cable </p> <p>`,
+    link: "https://www.amazon.ca/Seagate-Portable-External-Drive-STGX2000400/dp/B07CRG94G3/ref=sr_1_5?crid=3G5I00DF8KVAE&keywords=external+storage&qid=1664244589&sprefix=external+storag%2Caps%2C80&sr=8-5",
+  }, {
+    productName: "WD 18TB My Book Desktop External Hard Drive",
+    img: "https://assets.sellers.loblaw.ca/products/all/1286/341820_1.jpg?size=480",
+    price: (1.13 * 555.52).toFixed(2),
+    category: "external_storage",
+    build: null,
+    description: `<p> Massive capacity, up to 18TB capacity (1 1TB = one trillion bytes. Actual user capacity may be less depending on operating environment.) </p> <p>
+    Includes software for device management and backup with password protection (Download and installation required. Terms and conditions apply. User account registration may be required.) </p> <p>
+    256-bit AES hardware encryption
+    SuperSpeed USB (5 Gbps); USB 2.0 compatible </p> <p>`,
+    link: "https://www.amazon.ca/Western-Digital-External-Drive-USB-3-0-WDBBGB0040HBK-NESN/dp/B08KTQWV7Z/ref=sr_1_9?crid=3G5I00DF8KVAE&keywords=external%2Bstorage&qid=1664244589&sprefix=external%2Bstorag%2Caps%2C80&sr=8-9&th=1",
+  }, {
+    productName: "Microsoft Windows 10 Home",
+    img: "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1B7dR?ver=80b7",
+    price: (1.13 * 139).toFixed(2),
+    category: "operating_system",
+    build: null,
+    description: `<p>Built-in security features include antivirus, firewall, and internet protections </p> <p>
+    Scan your face or fingerprint with Windows Hello for a fast, secure, and password-free way to unlock your PC.* </p> <p>
+    Focus assist allows you to block notifications, sounds, and alerts for some distraction-free work time. </p> <p>
+    Your timeline provides a quick and easy way to scroll your most recent documents, apps, and websites, </p>`,
+    link: "https://www.microsoft.com/en-us/d/windows-10-home/d76qx4bznwk4?activetab=pivot:overviewtab",
   },
 ]
+
 
 let partFilter = [{
   category: "cpu",

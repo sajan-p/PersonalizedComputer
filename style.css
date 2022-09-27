@@ -249,6 +249,11 @@ button:hover {
   margin-top: 20%;
 }
 
+.about-me-container p, i {
+  font-size: 1.5rem;
+  color: #373e98;
+}
+
 /* ######################
      Footer
    ###################### */ 
