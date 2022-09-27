@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+  
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Kanit:wght@100;300;400;500;600;700;800;900&display=swap"
+      rel="stylesheet">
+  
+    <script src="https://kit.fontawesome.com/7048794920.js" crossorigin="anonymous"></script>
+  
+    <link rel="stylesheet" href="style.css">
+    <script src="parts.js" defer></script>
+    <script src="manage_part.js" defer></script>
+  </head>
+
+<body>
+
+  <section id="header">
+
+    <div class="header-left">
+      <a href="index.html">
+        <h3>PersonalizedComputer</h3>
+      </a>
+    </div>
+    <div class="header-right">
+      <a href="builds.html">Builds</a>
+      <a href="parts.html">Parts</a>
+      <button>
+        <i class="fa-solid fa-cart-arrow-down" style="color: black;"></i>
+        Purchase
+      </button>
+    </div>
+
+  </section>
+
+  <section id="introduction-parts">
+
+    <h1>Parts</h1>
+
+  </section>
+
+  <section id="parts-settings">
+    <div class="settings-container">
+      <a href="#" id="filter_cpu" class="active" onclick="filter('cpu')">CPU</a>
+      <a href="#" id="filter_cpu_cooler" class="active" onclick="filter('cpu_cooler')">CPU Cooler</a>
+      <a href="#" id="filter_motherboard" class="active" onclick="filter('motherboard')">Motherboard</a>
+      <a href="#" id="filter_memory" class="active" onclick="filter('memory')">Memory</a>
+      <a href="#" id="filter_storage" class="active" onclick="filter('storage')">Storage</a>
+      <a href="#" id="filter_video_card" class="active" onclick="filter('video_card')">Video Card</a>
+      <a href="#" id="filter_case" class="active" onclick="filter('case')">Case</a>
+      <a href="#" id="filter_power_supply" class="active" onclick="filter('power_supply')">Power Supply</a>
+      <a href="#" id="filter_optical_drive" class="active" onclick="filter('optical_drive')">Optical Drive</a>
+      <a href="#" id="filter_operating_system" class="active" onclick="filter('operating_system')">Operating System</a>
+      <a href="#" id="filter_monitor" class="active" onclick="filter('monitor')">Monitor</a>
+      <a href="#" id="filter_keyboard" class="active" onclick="filter('keyboard')">Keyboard</a>
+      <a href="#" id="filter_mouse" class="active" onclick="filter('mouse')">Mouse</a>
+      <a href="#" id="filter_headphones" class="active" onclick="filter('headphones')">Headphones</a>
+      <a href="#" id="filter_speakers" class="active" onclick="filter('speakers')">Speakers</a>
+      <a href="#" id="filter_webcam" class="active" onclick="filter('webcam')">Webcam</a>
+      <a href="#" id="filter_sound_card" class="active" onclick="filter('sound_card')">Sound Card</a>
+      <a href="#" id="filter_network_adapter" class="active" onclick="filter('network_adapter')">Network Adapter</a>
+      <a href="#" id="filter_microphone" class="active" onclick="filter('microphone')">Microphone</a>
+      <a href="#" id="filter_external_storage" class="active" onclick="filter('external_storage')">External Storage</a>
+    </div>
+
+    <div class="parts-buttons">
+      <button class="enable-button">Enable All</button>
+      <button class="disable-button">Disable All</button>
+    </div>
+
+    <div class="search-bar">
+      <input class="search-bar-input" placeholder="Filter Parts Here..." type="text">
+    </div>
+    
+  </section>
+
+  <section id="parts-list">
+
+
+    <a href="" class="parts-container">
+      <div>
+        <img src="img-01.png">
+      </div>
+      <div class="parts-description">
+        <h4>Coldair</h4>
+        <p>$232.22</p>
+      </div>
+    </a>
+
+  </section>
+
+  <section id="footer">
+    <img src="logo.png">
+    <p>PersonalizedComputer</p>
+  </section>
+
+</body>
+
+</html>
